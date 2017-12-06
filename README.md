@@ -1,2 +1,2 @@
-# ejercicio
+# Ejercicio
 Figuras
